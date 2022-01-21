@@ -40,7 +40,7 @@ Work item discussion.  We will start with these. AF to create folders.
 * “Layer 2 privacy guarantees that do not compromise on security”
 
 
-** Meeting Wed, 12th Jan 2022, 7 am PT
+## Meeting Wed, 12th Jan 2022, 7 am PT
 
 Attending: Andreas Freund, Tas Dienes, Dan Shaw, John Wolpert, Samrat Kishore, Alim Karim
 Scribe: Tas Dienes
@@ -135,6 +135,7 @@ NFTs/NFT transfer? NFT royalties cross-chain - Kartheek is interested in working
 
 Next meeting December 15, then January 12.  AF will send cancellations for 3 weeks in between.
 
+
 ## Meeting: Wed, 17th Nov, 2021, 7 am PT / 10 am ET / 16:00 BST
 
 Scribe: Dan Shaw
@@ -203,9 +204,11 @@ Action Items:
 * Alim: To check with the VMW legal team as well for our participation. Expect to have an answer by next week.
 * Tas (as PGB member): Submit Charter and Governance doc for approval to EEA - OASIS PGB during next PGB meeting; Status: Submitted awaiting a decision on 1st of December meeting.
 
+
 ## Meeting: Wed, 10th Nov, 2021, 7 am PT / 10 am ET / 16:00 BST
 
 Canceled due to lack of attendance.
+
 
 ## Meeting: Wed, 3rd Nov, 2021, 7 am PT / 10 am ET / 16:00 BST
 
